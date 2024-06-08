@@ -1,0 +1,29 @@
+@font-face {
+    font-family: vazir;
+    src: url('../fonts/Vazir.woff') format('woff');
+    font-size: medium;
+    font-weight: 900;
+}
+@font-face {
+    font-family: vazir;
+    src: url('../fonts/Vazir.woff') format('woff');
+    font-size: medium;
+    font-weight: 700;
+}
+@font-face {
+    font-family: vazir;
+    src: url('../fonts/Vazir.woff') format('woff');
+    font-size: medium;
+    font-weight: 500;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: vazir;
+}
+
+.w-inherit{
+    width: inherit;
+}
